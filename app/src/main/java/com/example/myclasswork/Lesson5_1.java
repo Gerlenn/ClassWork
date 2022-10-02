@@ -8,7 +8,6 @@ public class Lesson5_1 {
 //        friend.name = "Gleb";
         friend.born();
         friend2.born();
-
     }
 }
 
