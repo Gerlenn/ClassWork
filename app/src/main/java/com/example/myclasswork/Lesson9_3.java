@@ -1,5 +1,4 @@
 package com.example.myclasswork;
-
 import java.util.Scanner;
 
 public class Lesson9_3 {

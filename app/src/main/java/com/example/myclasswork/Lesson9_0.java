@@ -1,6 +1,4 @@
 package com.example.myclasswork;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Lesson9_0 {

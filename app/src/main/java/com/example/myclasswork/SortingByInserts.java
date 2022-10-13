@@ -1,5 +1,4 @@
 package com.example.myclasswork;
-
 import java.util.Arrays;
 
 //сортировка вставками

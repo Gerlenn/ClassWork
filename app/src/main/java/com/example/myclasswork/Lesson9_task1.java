@@ -1,5 +1,4 @@
 package com.example.myclasswork;
-
 public class Lesson9_task1 {
     //Задача, вывести среднее значение
     public static void main(String[] args) {
