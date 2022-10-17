@@ -1,8 +1,10 @@
-package com.example.myclasswork;
+package com.example.myclasswork.Arrays;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.myclasswork.R;
 
 public class MainActivity extends AppCompatActivity {
 
